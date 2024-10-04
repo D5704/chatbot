@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+psycopg2
+spacy
+fr_core_news_sm
+gunicorn
